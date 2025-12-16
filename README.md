@@ -26,7 +26,7 @@ Designed for **Windows** with **dark mode**, splash screen, and professional UI.
 
 ## 🖥️ Screenshot
 
-![screenshot](screenshot.png)
+[![screenshot](screenshot.png)](https://github.com/Sujayfutane/Student-Grade-Calculator/tree/e8957027d440779fba7761236e471af7694397e3/screenshot)
 
 ---
 
@@ -37,5 +37,6 @@ Designed for **Windows** with **dark mode**, splash screen, and professional UI.
 ```bash
 git clone https://github.com/yourusername/student-grade-calculator.git
 cd student-grade-calculator
+
 
 
