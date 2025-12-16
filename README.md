@@ -37,3 +37,4 @@ Designed for **Windows** with **dark mode**, splash screen, and professional UI.
 ```bash
 git clone https://github.com/yourusername/student-grade-calculator.git
 cd student-grade-calculator
+
