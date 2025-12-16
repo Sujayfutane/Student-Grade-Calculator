@@ -1,0 +1,4 @@
+# Student Grade Calculator
+# Built with Python 3.x (tested on 3.13)
+# Uses only built-in libraries: tkinter, csv, os, tempfile, webbrowser
+# No external packages required
